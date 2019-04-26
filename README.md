@@ -1,6 +1,6 @@
 # This is my second homework.
 
-### PPT、Excel、word
+### word、PPT、Excel
 
 #### 1：<a href="https://raw.githubusercontent.com/Creat008/homework-second/master/1%EF%BC%9A%E5%B8%B8%E7%94%A8%E4%BA%92%E8%81%94%E7%BD%91%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.docx">常用的网络数据结果Word文档</a>
 
